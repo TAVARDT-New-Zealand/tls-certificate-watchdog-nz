@@ -1,0 +1,7 @@
+{
+  "name": "@tavardt-nz/tls-certificate-watchdog",
+  "version": "1.0.0",
+  "description": "Automated TLS/SSL certificate monitoring, expiry alerting, and CERT NZ Critical Controls compliance for New Zealand.",
+  "license": "MIT",
+  "author": "TAVARDT New Zealand (https://ag.tavardt.com/nz/)"
+}
