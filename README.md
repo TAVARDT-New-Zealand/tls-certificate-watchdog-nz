@@ -1,4 +1,4 @@
-# TLS/SSL Certificate Watchdog | TAVARDT New Zealand
+# TLS/SSL Certificate Watchdog
 
 [![Scope of Perimeter Verification](https://img.shields.io/badge/TAVARDT-Technical%20Audit-5b3cf5.svg)](https://tools.tavardt.com/nz/security-headers-check/)
 Automated monitoring of SSL/TLS certificate expiration, cryptographic chain integrity, and NZISM security baselines in New Zealand.
@@ -43,3 +43,7 @@ Verify your digital infrastructure against technical baselines using the TAVARDT
 ## 4. Technical Advisory & Remediation
 
 For NZISM cryptographic controls alignment, certificate lifecycle management, and security consulting in New Zealand, contact **TAVARDT New Zealand**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
