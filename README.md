@@ -3,7 +3,7 @@
 [![Scope of Perimeter Verification](https://img.shields.io/badge/TAVARDT-Technical%20Audit-5b3cf5.svg)](https://tools.tavardt.com/nz/security-headers-check/)
 Automated monitoring of SSL/TLS certificate expiration, cryptographic chain integrity, and NZISM security baselines in New Zealand.
 
-Developed and maintained by the cybersecurity and digital sovereignty division of **TAVARDT New Zealand**.
+Developed and maintained by the cybersecurity and digital sovereignty division of **TAVARDT**.
 
 ***
 
@@ -30,7 +30,7 @@ python watchdog.py example.co.nz
 
 ## 3. Online Diagnostic Tools (New Zealand)
 
-Verify your digital infrastructure against technical baselines using the TAVARDT New Zealand suite:
+Verify your digital infrastructure against technical baselines using the TAVARDT suite:
 
 * HTTP Security Headers Checker
 * [Consent Mode v2 & Privacy Act Validator](https://tools.tavardt.com/nz/consent-mode-v2-checker/)
@@ -42,7 +42,7 @@ Verify your digital infrastructure against technical baselines using the TAVARDT
 
 ## 4. Technical Advisory & Remediation
 
-For NZISM cryptographic controls alignment, certificate lifecycle management, and security consulting in New Zealand, contact **TAVARDT New Zealand**.
+For NZISM cryptographic controls alignment, certificate lifecycle management, and security consulting in New Zealand, contact **TAVARDT**.
 
 ***
 
