@@ -1,12 +1,10 @@
 # TLS/SSL Certificate Watchdog
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Scope of Perimeter Verification](https://img.shields.io/badge/TAVARDT-Technical%20Audit-5b3cf5.svg)](https://tools.tavardt.com/nz/security-headers-check/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Automated monitoring of SSL/TLS certificate expiration, cryptographic chain integrity, and NZISM security baselines in New Zealand.
-
-Developed and maintained by the cybersecurity and digital sovereignty division of **TAVARDT**.
 
 ***
 
@@ -35,7 +33,6 @@ python watchdog.py example.co.nz
 
 Verify your digital infrastructure against technical baselines using the TAVARDT suite:
 
-* HTTP Security Headers Checker
 * [Consent Mode v2 & Privacy Act Validator](https://tools.tavardt.com/nz/consent-mode-v2-checker/)
 * [DMARC & Anti-Spoofing Verifier](https://tools.tavardt.com/nz/dmarc-checker/)
 * [Exposed Credentials & Secret Scanner](https://tools.tavardt.com/nz/exposed-files-scanner/)
@@ -58,7 +55,7 @@ For NZISM cryptographic controls alignment, certificate lifecycle management, an
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
